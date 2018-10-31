@@ -1,0 +1,26 @@
+DEPENDENCIES
+  node
+    git: git@github.com:DavidSIJames/chef_node_cookbook.git
+    revision: 69a15bf115e6b0a6e63c6029363dc0035028e0ac
+  sparta_chef_template_homework
+    git: git@github.com:DavidSIJames/sparta_chef_template_homework.git
+    revision: c32db05f422d45851135eba5a5cad0245366a8b3
+
+GRAPH
+  ark (4.0.0)
+    build-essential (>= 0.0.0)
+    seven_zip (>= 0.0.0)
+  build-essential (8.2.1)
+    mingw (>= 1.1)
+    seven_zip (>= 0.0.0)
+  mingw (2.1.0)
+    seven_zip (>= 0.0.0)
+  node (0.1.0)
+    nodejs (~> 5.0.0)
+  nodejs (5.0.0)
+    ark (>= 2.0.2)
+    build-essential (>= 0.0.0)
+  seven_zip (3.0.0)
+    windows (>= 0.0.0)
+  sparta_chef_template_homework (0.1.0)
+  windows (5.1.4)
