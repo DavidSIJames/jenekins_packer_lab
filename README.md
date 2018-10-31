@@ -1,0 +1,1 @@
+## Vagrant Chef provision lab
